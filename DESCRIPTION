@@ -1,0 +1,17 @@
+Package: meteoR
+Title: Agro-meteorological calculations
+Version: 0.0.0.9000
+Date: 2024-05-27
+Authors@R: person(
+    given = "Kevin", 
+    family = "Kramer", 
+    email = "kevin.pasqual.kramer@protonmail.ch",
+    role = c("aut", "cre", "cph"),
+    comment = c(ORCID = "0000-0001-5523-6924"))
+Description: Contains functions frequently used when meteorological or 
+    climatic variables have to be (i) approximately derived from other 
+    variables, (ii) corrected or gap-filled.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
